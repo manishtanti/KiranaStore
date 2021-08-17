@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096106069689",
+    "firebase_url": "https://kiranastore-eac2d-default-rtdb.firebaseio.com",
+    "project_id": "kiranastore-eac2d",
+    "storage_bucket": "kiranastore-eac2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096106069689:android:972e645a1641d946d35568",
+        "android_client_info": {
+          "package_name": "com.example.kiranastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096106069689-bfskon83kk2dduo3r3hu0ivmvohafbh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsU_pnmOBPw6na10_zWWj4tXHJWMFW6mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096106069689-bfskon83kk2dduo3r3hu0ivmvohafbh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

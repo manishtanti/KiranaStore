@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/badge"
+    android:layout_width="48dp"
+    android:layout_height="48dp"
+    android:layout_gravity="right" >
+
+    <!-- Menu Item Image -->
+    <ImageView
+        android:id="@+id/cart_notification_icon"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:clickable="true"
+        android:src="@drawable/ic_cart" />
+
+    <TextView
+        android:id="@+id/cart_notification_textview"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@drawable/circular_background"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/black" />
+
+</RelativeLayout>
